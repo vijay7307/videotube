@@ -1,0 +1,12 @@
+{
+  "name": "videotube",
+  "version": "1.0.0",
+  "description": "complete backend learn",
+  "license": "ISC",
+  "author": "vijay ahirwar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js"
+  }
+}
